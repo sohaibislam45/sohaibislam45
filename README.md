@@ -1,10 +1,12 @@
-
-
 ![header](https://github.com/user-attachments/assets/5b0ffa2a-b12b-413c-9a06-aa1c8d5e7770)
 
 # 💫 About Me:
 Hi 👋 I'm Shohaib Islam<br>Aspiring Full-Stack Developer<br>I work mainly with React, Typescript, JavaScript, Next.js and Node.js<br>I enjoy learning new technologies, solving problems, and working in a team
 
+## 📫 Contact:
+[![Email](https://img.shields.io/badge/Email-sohaibislam45%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sohaibislam45@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-01968017308-0A66C2?logo=google-voice&logoColor=white)](tel:01968017308)  
+📞 `01968017308`
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shohaib-islam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohaibislam45@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sohaibislam45)
