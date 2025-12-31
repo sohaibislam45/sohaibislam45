@@ -1,6 +1,7 @@
-![header](https://github.com/user-attachments/assets/5b0ffa2a-b12b-413c-9a06-aa1c8d5e7770)
+![header](https://github.com/user-attachments/assets/a1035d86-fa90-4bc5-aee2-f3ed1b9c8752)
 
 # 💫 About Me:
+
 Hi 👋 I'm Shohaib Islam<br>Aspiring Full-Stack Developer<br>I work mainly with React, Typescript, JavaScript, Next.js and Node.js<br>I enjoy learning new technologies, solving problems, and working in a team
 
 
