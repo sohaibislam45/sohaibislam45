@@ -5,7 +5,7 @@
 Hi 👋 I'm Shohaib Islam<br>Aspiring Full-Stack Developer<br>I work mainly with React, Typescript, JavaScript, Next.js and Node.js<br>I enjoy learning new technologies, solving problems, and working in a team
 
 
-## 📫 Contact Me (Open for Internship)
+## 📫 Contact Me
 
 📧 **Email:** sohaibislam45@gmail.com  
 📞 **Phone:** 01968017308
